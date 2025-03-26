@@ -5,9 +5,8 @@ This project implements a modular, extensible architecture for multi-label email
 
 ## 📁 Directory Structure
 ```
-EE_NCI_SET_5/
-├── Complete -Solution/
-│   └── Actvity 3 Full Solution/
+├── Engineering-and-Evaluating/
+│   
 │       ├── data/                      # Data directory
 │       │   ├── AppGallery.csv         # AppGallery support tickets
 │       │   └── Purchasing.csv         # Purchasing support tickets
